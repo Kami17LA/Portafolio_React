@@ -1,3 +1,5 @@
+import { faAngular, faCss3, faGitAlt, faJsSquare, faNodeJs, faReact } from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './index_ab.scss'
 
 const About = () => {
@@ -12,9 +14,32 @@ const About = () => {
 </p>
             </div>
 
-            <div className='stage-cube-cont'>
-                <div>
-                    
+            <div className='icons-cont'>
+                <div className='icons'>
+                    <div className='icon'>
+                        <FontAwesomeIcon icon={faJsSquare} color='#EFD81D'/>
+                    </div>
+
+                    <div className='icon'>
+                        <FontAwesomeIcon icon={faReact} color='#5ED4F4'/>
+                    </div>
+
+                    <div className='icon'>
+                        <FontAwesomeIcon icon={faAngular} color='#DD0031'/>
+                    </div>
+
+                    <div className='icon'>
+                        <FontAwesomeIcon icon={faCss3} color='#28A4D9'/>
+                    </div>
+
+                    <div className='icon'>
+                        <FontAwesomeIcon icon={faNodeJs} color='#68a063'/>
+                    </div>
+
+                    <div className='icon'>
+                        <FontAwesomeIcon icon={faGitAlt} color='#EC4D28'/>
+                    </div>
+
                 </div>
 
             </div>
