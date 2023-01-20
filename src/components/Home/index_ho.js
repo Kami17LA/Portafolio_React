@@ -15,7 +15,7 @@ const Home = () => {
                 </h1>
                 <h2>Frontend Developer / Javascript / Project Managment</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
-                <Link to="/contact" className="flat-button">PORTFOLIO</Link>
+                <Link to="/portfolio" className="flat-button">PORTFOLIO</Link>
             </div>
         </div>
     )
