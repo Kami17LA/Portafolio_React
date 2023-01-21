@@ -23,6 +23,8 @@ const Portfolio = () => {
                                     alt="port_image">
                                 </img>
 
+                                <h3 className='description-port'>{port.text}</h3>
+
                                 <div className='content'>
                                     <p className='title'>{port.title}</p>
                                     <h4 className='description'>{port.description}</h4>
@@ -44,10 +46,6 @@ const Portfolio = () => {
         <>
         <div className='container portfolio-page'>
             <h1 className='page-title'>Portfolio</h1>
-            <div>
-                <h2> Now I show you my projects </h2>
-            </div>
-
             <div>{renderPortfolio(portfolioData.portfolio)}</div>
             {/* <div className='cards'></div> */}
         </div> 

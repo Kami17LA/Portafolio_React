@@ -13,18 +13,20 @@
 
     .images-container {
         display: flex;
-        gap: 15px;
+        justify-content: center;
+        gap: 40px;
         flex-wrap: wrap;
         padding-bottom: 100px;
     }
 
     .image-box {
         position: relative;
-        flex: 1 1 20%;
-        height: 400px;
+        /* flex: 1 1 20%; */
+        flex: 0 0 300px;
+        height: 500px;
         overflow: hidden;
         border-radius: 10px;
-        max-width: calc(25% - 10px);
+        /* max-width: calc(25% - 10px); */
 
         .portfolio-image{
             position: absolute;
@@ -34,7 +36,7 @@
             object-fit: cover;
         }
 
-        .port-img{
+        .port-img {
             /* height: 100px;
             width: 100px; */
             position: absolute;
@@ -43,8 +45,20 @@
             z-index: 3;
             padding: 10px 20px;
             transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-            bottom: 180px; 
+            bottom: 270px; 
             
+        }
+
+        .description-port{
+            
+            font-family: 'Coolvetica';
+            position: absolute;
+            width: 85%;
+            height: 40%;
+            z-index: 3;
+            padding: 10px 20px;
+            transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+            bottom: 40px; 
         }
 
         .content {
