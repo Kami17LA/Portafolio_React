@@ -1,7 +1,7 @@
 import './index_co.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faSquareGithub } from '@fortawesome/free-brands-svg-icons';
-import { faEnvelopesBulk } from '@fortawesome/free-solid-svg-icons';
+import { faLinkedin, faSquareGithub } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelopesBulk, faMobileRetro } from '@fortawesome/free-solid-svg-icons';
 
 const Contact = () => {
     return(
@@ -20,6 +20,16 @@ const Contact = () => {
                                     href='mailto:katherine.quispepantoja@gmail.com'
                                 >
                                     <FontAwesomeIcon icon={faEnvelopesBulk} color='#F5F5DC'/>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a
+                                    target="_blank"
+                                    rel="noreferrer"
+                                    href='https://wa.me/916192234'
+                                >
+                                    <FontAwesomeIcon icon={faMobileRetro} color='#25D366'/>
                                 </a>
                             </li>
 
