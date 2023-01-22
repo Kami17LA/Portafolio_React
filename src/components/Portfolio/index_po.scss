@@ -22,7 +22,7 @@
     .image-box {
         position: relative;
         /* flex: 1 1 20%; */
-        flex: 0 0 300px;
+        flex: 0 0 400px;
         height: 500px;
         overflow: hidden;
         border-radius: 10px;
@@ -45,13 +45,14 @@
             z-index: 3;
             padding: 10px 20px;
             transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-            bottom: 270px; 
+            bottom: 260px; 
             
         }
 
         .description-port{
             color: #18171c;
             font-weight: 200;
+            font-size: medium;
             font-family: 'Coolvetica';
             position: absolute;
             width: 85%;
@@ -59,7 +60,7 @@
             z-index: 3;
             padding: 10px 20px;
             transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-            bottom: 40px; 
+            bottom: 30px; 
         }
 
         .content {

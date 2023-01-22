@@ -5,40 +5,40 @@
             "image": "/portfolio/burguer_queen.png",
             "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
             "title": "Burguer Queen",
-            "description": "React, JSX, API, JS",
+            "description": "React, JSX, API, JS, CSS, HTML5",
             "url": "https://github.com/Kami17LA/LIM018-burger-queen-api-client"
         },
         {
             "cover": "/portfolio/fondo.jpg",
             "image": "/portfolio/help_taster.png",
-            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
-            "title": "Burguer Queen",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "text":"Social network for gastronomy lovers that allows sharing recommendations from all over the world.In this app allows you to post, edit and delete your post. You can also interact with other users by commenting and liking their posts.",
+            "title": "Help Taster",
+            "description": "JS, HTML5, Firebase, CSS, Jest",
+            "url": "https://github.com/Kami17LA/LIM018-social-network"
         },
         {
             "cover": "/portfolio/fondo.jpg",
             "image": "/portfolio/harry_potter.png",
-            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
-            "title": "Burguer Queen",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "text":"Web application developed to provide information about the Harry Potter Saga.This page has a search engine to filter searches and a carousel was used to display important data.",
+            "title": "Harry Potter Web",
+            "description": "JS, HTML5, CSS, Jest",
+            "url": "https://github.com/Kami17LA/LIM018-data-lovers"
         },
         {
             "cover": "/portfolio/fondo.jpg",
             "image": "/portfolio/angular_store.png",
-            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
-            "title": "Burguer Queen",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "text":"A web page where you can view the cards of the Yu-Gi-Oh game, access each one of them and view the information on where you can buy it.",
+            "title": "Cards Store",
+            "description": "Angular, TypeScript, HTML5, CSS",
+            "url": "https://github.com/Kami17LA/codigoFacilitoProyectoFinal"
         },
         {
             "cover": "/portfolio/fondo.jpg",
             "image": "/portfolio/md_link.png",
-            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
-            "title": "Burguer Queen",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "text":"Tool created using Node.js, that reads and analyzes files in Markdown format, to verify the links it contains and report statistics such as whether the link works, is broken, etc.",
+            "title": "MD_Links",
+            "description": "Node JS, Markdown, Jest",
+            "url": "https://github.com/Kami17LA/LIM018-md-links"
         }
     ]
 }
