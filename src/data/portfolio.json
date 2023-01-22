@@ -10,25 +10,33 @@
         },
         {
             "cover": "/portfolio/fondo.jpg",
-            "title": "",
+            "image": "/portfolio/help_taster.png",
+            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
+            "title": "Burguer Queen",
             "description": "React, JSX, Tailwind, Jest",
             "url": "http://google.com"
         },
         {
             "cover": "/portfolio/fondo.jpg",
-            "title": "GGWP",
+            "image": "/portfolio/harry_potter.png",
+            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
+            "title": "Burguer Queen",
             "description": "React, JSX, Tailwind, Jest",
             "url": "http://google.com"
         },
         {
             "cover": "/portfolio/fondo.jpg",
-            "title": "GGWP",
+            "image": "/portfolio/angular_store.png",
+            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
+            "title": "Burguer Queen",
             "description": "React, JSX, Tailwind, Jest",
             "url": "http://google.com"
         },
         {
             "cover": "/portfolio/fondo.jpg",
-            "title": "GGWP",
+            "image": "/portfolio/md_link.png",
+            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
+            "title": "Burguer Queen",
             "description": "React, JSX, Tailwind, Jest",
             "url": "http://google.com"
         }
