@@ -3,7 +3,7 @@
         {
             "cover": "/portfolio/fondo.jpg",
             "image": "/portfolio/burguer_queen.png",
-            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views the order, prepares the order and sends it to the waiter to deliver the order) and finally the administrator (view the orders delivered and can create new users for the restaurant).",
+            "text":"Web interface to manage orders for a fast-food restaurant. In this application can interact 3 users, waiter (takes the order and sends it to kitchen), cook (views and prepares the order then sends it to the waiter) finally the administrator (view the orders delivered).",
             "title": "Burguer Queen",
             "description": "React, JSX, API, JS, CSS, HTML5",
             "url": "https://github.com/Kami17LA/LIM018-burger-queen-api-client"

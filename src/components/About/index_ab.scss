@@ -1,8 +1,8 @@
 .icons-cont{
-    /* width: 50%; */
+    width: 20%;
     height: 100%;
     top: 0;
-    padding-top: 18%;
+    padding-top: 7%;
     margin-right: 50px;
     position: absolute;
     right: 0;
@@ -11,6 +11,28 @@
 
 .icons{
     .icon{
-        font-size: 50px;
+        font-size: 80px;
+        display: flex;
+        padding: 5px;
+
     }
+}
+
+h2{
+    font-weight: 300;
+    color: #8d8d8d;
+}
+
+.used_tech{
+    font-size: 20px;
+    margin-top: 400px;
+    margin-left: 800px;
+    position: absolute;
+}
+
+.used{
+    font-size: 50px;
+    margin-top: 350px;
+    margin-left: 850px;
+    position: absolute;
 }

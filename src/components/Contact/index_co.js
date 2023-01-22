@@ -6,7 +6,9 @@ const Contact = () => {
             <div className='container contact-page'>
                 <div className='text-zone'>
                     <h1>Contact Me</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <h2>Thank you for coming here... I would love to work with you!! so if you want to say hi, I'll be happy to meet you more! :)
+
+</h2>
                     <div className='contact-form'>
                         <form>
                             <ul>

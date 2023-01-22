@@ -1,6 +1,8 @@
 import './index_ho.scss'
 import LogoTitle from '../../assets/images/logo-s.png'
 import { Link } from 'react-router-dom'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faDownload } from '@fortawesome/free-solid-svg-icons'
 
 const Home = () => {
 
@@ -13,7 +15,14 @@ const Home = () => {
                 <br/>
                 Web developer
                 </h1>
-                <h2>Frontend Developer / Javascript / Project Managment</h2>
+                <h2>Frontend Developer / Industrial Engineer / Project Managment</h2>
+                <div className='img-download'>
+                    <FontAwesomeIcon icon={faDownload} color='#FEF9E7'/>
+                </div>
+
+                <a className='cv-buttom' href='https://drive.google.com/file/d/13GBRoxuRZRdCJw1CpaTykFzP23v4uDkX/view?usp=share_link' 
+                download="cv-KatherinE-Quispe.pdf">DOWNLOAD MY CV</a>
+                
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
                 <Link to="/portfolio" className="flat-button">PORTFOLIO</Link>
             </div>
