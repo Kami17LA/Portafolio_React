@@ -5,7 +5,7 @@ Hi, How are you? Welcome to my Portfolio web site ... I'm Katherine, better know
 I'm happy to have you here.
 
 
-## LET'S GO START ...
+## Let's go start ...
 
 
 <div aling="center">
