@@ -1,3 +1,28 @@
+# PORTFOLIO
+
+Hi, How are you? Welcome to my Portfolio web site ... I'm Katherine, better known as Kami!
+
+I'm happy to have you here.
+
+### <img src="https://media1.giphy.com/media/SYWI8fQoPpid2sjo6O/giphy.gif?cid=ecf05e47q6adr0xl9hppgrr92i97fb87yx9168iikibnlqyu&rid=giphy.gif&ct=g" width="100" aling="center> Start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
