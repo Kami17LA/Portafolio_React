@@ -36,3 +36,31 @@ h2{
     margin-left: 850px;
     position: absolute;
 }
+
+@media (max-width: 600px) {
+
+    .icons-cont {
+        width: 50%;
+        top: 4;
+        margin-right: 80px;
+        margin-top: 900px;
+
+    }
+
+    .icons{
+        .icon{
+            font-size: 40px;
+            display: flex;
+            padding: 5px;
+    
+        }
+    }
+
+    .used{
+        font-size: 50px;
+        margin-top: 350px;
+        margin-left: 850px;
+        position: absolute;
+    }
+    
+}

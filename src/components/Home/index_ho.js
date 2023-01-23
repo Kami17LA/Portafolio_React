@@ -20,11 +20,13 @@ const Home = () => {
                     <FontAwesomeIcon icon={faDownload} color='#FEF9E7'/>
                 </div>
 
-                <a className='cv-buttom' href='https://drive.google.com/file/d/13GBRoxuRZRdCJw1CpaTykFzP23v4uDkX/view?usp=share_link' 
-                download="cv-KatherinE-Quispe.pdf">DOWNLOAD MY CV</a>
-                
-                <Link to="/contact" className="flat-button">CONTACT ME</Link>
-                <Link to="/portfolio" className="flat-button">PORTFOLIO</Link>
+                <div className='button-contact'>
+                    <a className='cv-button' href='https://drive.google.com/file/d/13GBRoxuRZRdCJw1CpaTykFzP23v4uDkX/view?usp=share_link' 
+                    download="cv-KatherinE-Quispe.pdf">DOWNLOAD MY CV</a>
+                    
+                    <Link to="/contact" className="flat-button">CONTACT ME</Link>
+                    <Link to="/portfolio" className="flat-button">PORTFOLIO</Link>
+                </div>
             </div>
         </div>
     )

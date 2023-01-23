@@ -83,7 +83,7 @@
 
     }
 
-    .cv-buttom{
+    .cv-button{
         margin-left: 800px;
         color: #ffd700;
         font-size: 20px;
@@ -108,6 +108,50 @@
         margin-left: 920px;
         font-size: 40px;
         padding: 10px;
+    }
+
+}
+
+@media (max-width: 600px) {
+    .home-page{
+        width: 380px;
+        height: 680px;
+
+        h1{
+            font-size: 30px;
+
+            img{
+                width: 40px;
+            }
+        }
+
+        h2{
+            font-size: 10px;
+        }
+
+        .button-contact{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            height: 300px;
+
+        }
+
+        .cv-button{
+            margin-left: 0px;
+            font-size: 12px;
+            margin: 0;
+        }
+
+        .flat-button{
+            font-size: 12px;
+            
+        }
+
+        .img-download{
+            margin-left: 100px;
+            font-size: 15px;
+        }
     }
 
 }

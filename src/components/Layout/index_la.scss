@@ -112,3 +112,13 @@
 
     }
 }
+
+
+@media (max-width: 600px) {
+    .container{
+        width: 60rem;
+        position: relative;
+        flex-direction: row;
+        min-height: 50px;
+    }
+}
